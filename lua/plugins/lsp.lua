@@ -1,7 +1,7 @@
 local servers = {
   "stylua",
   "shfmt",
-  "volar@1.8.27",
+  -- "volar@1.8.27",
 }
 return {
   "williamboman/mason.nvim",

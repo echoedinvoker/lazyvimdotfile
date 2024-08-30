@@ -21,6 +21,7 @@ return {
       ["core.dirman"] = { -- Manages Neorg workspaces
         config = {
           workspaces = {
+            algorithm = "~/notes/algorithm",
             node = "~/notes/node",
             pomodoro = "~/notes/pomodoro",
             money = "~/notes/money",
@@ -55,6 +56,7 @@ return {
             miro = "~/notes/miro",
             plotlyjs = "~/notes/plotlyjs",
             microfrontend = "~/notes/microfrontend",
+            fastapi = "~/notes/fastapi",
             other = "~/notes/other",
           },
           default_workspace = "node",
